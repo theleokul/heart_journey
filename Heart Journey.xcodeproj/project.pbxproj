@@ -15,6 +15,18 @@
 		E523BBBE253A275100C3E575 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E523BBBC253A275100C3E575 /* Main.storyboard */; };
 		E523BBC0253A275700C3E575 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E523BBBF253A275700C3E575 /* Assets.xcassets */; };
 		E523BBC3253A275700C3E575 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E523BBC1253A275700C3E575 /* LaunchScreen.storyboard */; };
+		E523BBCB253A588700C3E575 /* MenuScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = E523BBCA253A588700C3E575 /* MenuScene.sks */; };
+		E523BBCD253A590800C3E575 /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E523BBCC253A590800C3E575 /* MenuScene.swift */; };
+		E523BBCF253ADA2D00C3E575 /* MarketScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = E523BBCE253ADA2D00C3E575 /* MarketScene.sks */; };
+		E523BBD1253ADA9D00C3E575 /* MarketScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E523BBD0253ADA9D00C3E575 /* MarketScene.swift */; };
+		E523BBD3253B08FB00C3E575 /* SportScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = E523BBD2253B08FB00C3E575 /* SportScene.sks */; };
+		E523BBD5253B094E00C3E575 /* SportScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E523BBD4253B094E00C3E575 /* SportScene.swift */; };
+		E523BBD7253B606300C3E575 /* BookScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = E523BBD6253B606300C3E575 /* BookScene.sks */; };
+		E523BBD9253B60D600C3E575 /* BookScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E523BBD8253B60D600C3E575 /* BookScene.swift */; };
+		E523BBDB253B93B500C3E575 /* CastleScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = E523BBDA253B93B500C3E575 /* CastleScene.sks */; };
+		E523BBDD253B956C00C3E575 /* CastleScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E523BBDC253B956C00C3E575 /* CastleScene.swift */; };
+		E523BBDF253B9BAC00C3E575 /* FinalScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = E523BBDE253B9BAC00C3E575 /* FinalScene.sks */; };
+		E523BBE1253B9BB800C3E575 /* FinalScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E523BBE0253B9BB800C3E575 /* FinalScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +40,18 @@
 		E523BBBF253A275700C3E575 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E523BBC2253A275700C3E575 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E523BBC4253A275700C3E575 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E523BBCA253A588700C3E575 /* MenuScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MenuScene.sks; sourceTree = "<group>"; };
+		E523BBCC253A590800C3E575 /* MenuScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
+		E523BBCE253ADA2D00C3E575 /* MarketScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MarketScene.sks; sourceTree = "<group>"; };
+		E523BBD0253ADA9D00C3E575 /* MarketScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketScene.swift; sourceTree = "<group>"; };
+		E523BBD2253B08FB00C3E575 /* SportScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = SportScene.sks; sourceTree = "<group>"; };
+		E523BBD4253B094E00C3E575 /* SportScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportScene.swift; sourceTree = "<group>"; };
+		E523BBD6253B606300C3E575 /* BookScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = BookScene.sks; sourceTree = "<group>"; };
+		E523BBD8253B60D600C3E575 /* BookScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookScene.swift; sourceTree = "<group>"; };
+		E523BBDA253B93B500C3E575 /* CastleScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = CastleScene.sks; sourceTree = "<group>"; };
+		E523BBDC253B956C00C3E575 /* CastleScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastleScene.swift; sourceTree = "<group>"; };
+		E523BBDE253B9BAC00C3E575 /* FinalScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FinalScene.sks; sourceTree = "<group>"; };
+		E523BBE0253B9BB800C3E575 /* FinalScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,9 +88,21 @@
 				E523BBB4253A275100C3E575 /* GameScene.sks */,
 				E523BBB6253A275100C3E575 /* Actions.sks */,
 				E523BBB8253A275100C3E575 /* GameScene.swift */,
+				E523BBCA253A588700C3E575 /* MenuScene.sks */,
+				E523BBCC253A590800C3E575 /* MenuScene.swift */,
+				E523BBDA253B93B500C3E575 /* CastleScene.sks */,
+				E523BBDC253B956C00C3E575 /* CastleScene.swift */,
+				E523BBDE253B9BAC00C3E575 /* FinalScene.sks */,
+				E523BBE0253B9BB800C3E575 /* FinalScene.swift */,
+				E523BBD6253B606300C3E575 /* BookScene.sks */,
+				E523BBD2253B08FB00C3E575 /* SportScene.sks */,
+				E523BBD4253B094E00C3E575 /* SportScene.swift */,
+				E523BBCE253ADA2D00C3E575 /* MarketScene.sks */,
+				E523BBD0253ADA9D00C3E575 /* MarketScene.swift */,
 				E523BBBA253A275100C3E575 /* GameViewController.swift */,
 				E523BBBC253A275100C3E575 /* Main.storyboard */,
 				E523BBBF253A275700C3E575 /* Assets.xcassets */,
+				E523BBD8253B60D600C3E575 /* BookScene.swift */,
 				E523BBC1253A275700C3E575 /* LaunchScreen.storyboard */,
 				E523BBC4253A275700C3E575 /* Info.plist */,
 			);
@@ -132,10 +168,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				E523BBBE253A275100C3E575 /* Main.storyboard in Resources */,
+				E523BBCB253A588700C3E575 /* MenuScene.sks in Resources */,
 				E523BBB5253A275100C3E575 /* GameScene.sks in Resources */,
+				E523BBD3253B08FB00C3E575 /* SportScene.sks in Resources */,
+				E523BBD7253B606300C3E575 /* BookScene.sks in Resources */,
 				E523BBC0253A275700C3E575 /* Assets.xcassets in Resources */,
 				E523BBC3253A275700C3E575 /* LaunchScreen.storyboard in Resources */,
 				E523BBB7253A275100C3E575 /* Actions.sks in Resources */,
+				E523BBDB253B93B500C3E575 /* CastleScene.sks in Resources */,
+				E523BBCF253ADA2D00C3E575 /* MarketScene.sks in Resources */,
+				E523BBDF253B9BAC00C3E575 /* FinalScene.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,9 +188,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E523BBD1253ADA9D00C3E575 /* MarketScene.swift in Sources */,
 				E523BBB9253A275100C3E575 /* GameScene.swift in Sources */,
+				E523BBCD253A590800C3E575 /* MenuScene.swift in Sources */,
+				E523BBD5253B094E00C3E575 /* SportScene.swift in Sources */,
 				E523BBBB253A275100C3E575 /* GameViewController.swift in Sources */,
+				E523BBE1253B9BB800C3E575 /* FinalScene.swift in Sources */,
 				E523BBB3253A275100C3E575 /* AppDelegate.swift in Sources */,
+				E523BBDD253B956C00C3E575 /* CastleScene.swift in Sources */,
+				E523BBD9253B60D600C3E575 /* BookScene.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,7 +350,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.leonidkulikov.Heart-Journey";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -320,7 +368,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.leonidkulikov.Heart-Journey";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
