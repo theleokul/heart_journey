@@ -1,5 +1,7 @@
 # Heart Journey
 
+![Initial screen of Heart Journey](initial_screen.png)
+
 This is an iOS game for children studying in an elementary school that advances their awareness about heart diseases. It also has a side effect influencing childrens' parents/grandparents, because the game has levels there the character asks to summon their parents/grandparents to play together.
 
 Our main target - boost awareness in families to make their life happier. We should not forget that heart problems are not unusual between young generations. So we must pay special attention to them which this game does.
